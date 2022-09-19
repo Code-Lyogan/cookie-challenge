@@ -1,0 +1,17 @@
+* {
+    background-color: coral;
+}
+
+.cookie-container {
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cookie-img {
+    width: 350px;
+    height: 350px;
+}
